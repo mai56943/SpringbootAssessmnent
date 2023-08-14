@@ -1,2 +1,3 @@
 # SpringbootAssessmnent
-assessment no 2
+demo1_1 = assessment question no 1
+demo2 = assessment question no 2
